@@ -1,2 +1,2 @@
-# pushspace
-A block pushing game
+# Push Space
+A block pushing game.
